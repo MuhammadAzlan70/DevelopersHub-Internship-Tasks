@@ -1,6 +1,6 @@
 # Data Science Internship Tasks
 
-**Name:** [MUHAMMAD AZLAN]
+**Name:** MUHAMMAD AZLAN
 **Date:** June 5, 2026
 
 ## Tasks Completed
